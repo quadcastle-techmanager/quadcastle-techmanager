@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Muruganantham B
+# 👋 MURUGANANTHAM B
 
 ### 👑 QuadCastle Technologies | Technical Project Manager  
 ### 🚀 Strategy • Execution • Delivery
