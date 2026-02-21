@@ -7,6 +7,8 @@
 
 </div>
 
+![](https://komarev.com/ghpvc/?username=quadcastle-techmanager&label=Profile%20Views&color=blue&style=plastic)
+
 ---
 
 ## 🧠 Vision
